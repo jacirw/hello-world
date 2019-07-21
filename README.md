@@ -1,2 +1,5 @@
 # hello-world
-Repository for projects
+
+Hi! 
+
+My name is Jaci. I am working toward a degree in software development.    
